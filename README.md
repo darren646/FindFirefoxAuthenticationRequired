@@ -1,2 +1,2 @@
 # FindFirefoxAuthenticationRequired
-UIAUTOMATION API 
+UIAUTOMATION API to logon firefox authentication required window
