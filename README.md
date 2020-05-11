@@ -1,0 +1,2 @@
+# FindFirefoxAuthenticationRequired
+UIAUTOMATION API 
